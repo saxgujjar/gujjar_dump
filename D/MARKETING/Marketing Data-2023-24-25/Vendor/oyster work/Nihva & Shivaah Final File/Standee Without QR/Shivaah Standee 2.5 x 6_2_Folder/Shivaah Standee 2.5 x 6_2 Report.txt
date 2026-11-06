@@ -1,0 +1,112 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Shivaah Standee 2.5 x 6_2.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 2160 pt x 5184 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Montserrat Bold (TrueType)
+Montserrat Regular (TrueType)
+Roboto Regular (TrueType)
+Roboto Bold (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\balcony (2).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 36864K, 4096 by 3072 pixels
+Dimensions: 1237.328 by 927.996 points 
+Resolution: 238.346 by 238.346 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\roof.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2109K, 922 by 781 pixels
+Dimensions: 883.668 by 748.53 points 
+Resolution: 75.123 by 75.123 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\villa skylight.png
+Type: Transparent CMYK
+Bits per Pixel: 41
+Channels: 5
+Size: 45040K, 4096 by 2252 pixels
+Dimensions: 1513.116 by 831.918 points 
+Resolution: 194.904 by 194.904 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\wide-automatic-sliding-gate-with-remote-control-installed-high-stone-fense-wall-security-protection-concept.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 18772K, 3100 by 2067 pixels
+Dimensions: 800.685 by 533.876 points 
+Resolution: 278.761 by 278.761 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\roof-4.jpg-V2.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3492K, 1600 by 745 pixels
+Dimensions: 1173.163 by 546.254 points 
+Resolution: 98.196 by 98.196 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\RR (6).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 30156K, 4164 by 2472 pixels
+Dimensions: 1113.824 by 661.233 points 
+Resolution: 269.17 by 269.17 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\WhatsApp Image 2024-01-08 at 10.38.16 AM.jpeg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 67500K, 3600 by 6400 pixels
+Dimensions: 644.105 by 1145.075 points 
+Resolution: 402.419 by 402.419 pixels per inch
+
+
+D:\Work\Nivha\Shivaah Standee 2.5 x 6_1_Folder\Links\Dome (2).jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 35721K, 4032 by 3024 pixels
+Dimensions: 856.102 by 642.077 points 
+Resolution: 339.1 by 339.1 pixels per inch
