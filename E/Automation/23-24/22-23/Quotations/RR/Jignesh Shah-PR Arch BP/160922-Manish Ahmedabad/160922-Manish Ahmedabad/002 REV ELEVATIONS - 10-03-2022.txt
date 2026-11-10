@@ -1,0 +1,43 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 09 September 2022, 10:16 AM.
+
+Drawing:
+This is a transmittal based on 002 REV ELEVATIONS - 10-03-2022.dwg.
+
+Files:
+
+Root Drawing:
+	002 REV ELEVATIONS - 10-03-2022.dwg
+
+JPG File References:
+	21-10-20\facade COLUMN.jpg
+	21-10-20\facade WINDOW-01.jpg
+
+JPEG File References:
+	21-10-20\WhatsApp Image 2019-04-02 at 11.18.57 (1).jpeg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\monochrome.ctb
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\ARIALN.TTF
+	Fonts\ltypeshp.shx
+	Fonts\romans.shx
+	Fonts\special.shx
+
+
+Notes for distribution:
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Admin\appdata\roaming\autodesk\autocad 2012 - english\r18.2\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
