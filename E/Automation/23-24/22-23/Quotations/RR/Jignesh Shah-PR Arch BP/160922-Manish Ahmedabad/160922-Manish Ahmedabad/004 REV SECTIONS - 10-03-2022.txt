@@ -1,0 +1,42 @@
+Transmittal Report:
+Created by AutoCAD eTransmit 09 September 2022, 10:33 AM.
+
+Drawing:
+This is a transmittal based on 004 REV SECTIONS - 10-03-2022.dwg.
+
+Files:
+
+Root Drawing:
+	004 REV SECTIONS - 10-03-2022.dwg
+
+JPG File References:
+	21-10-20\123.jpg
+	21-10-20\362d5b2f-db81-4491-a463-1b74b2233c9b.jpg
+	21-10-20\711891ea-9376-4052-bf85-f047f709a2fe.jpg
+	21-10-20\76c3f0a3-7cd8-43f1-9f9a-2db27f7544b3.jpg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\monochrome.ctb
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\ARIALN.TTF
+
+The following files could not be located:
+	arial_0.(shx,ttf)
+	ariblk_0.(shx,ttf)
+
+
+Notes for distribution:
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Admin\appdata\roaming\autodesk\autocad 2012 - english\r18.2\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
