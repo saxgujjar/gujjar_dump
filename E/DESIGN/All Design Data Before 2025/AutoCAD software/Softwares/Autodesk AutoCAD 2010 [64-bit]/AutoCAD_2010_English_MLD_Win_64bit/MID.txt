@@ -1,0 +1,8 @@
+MID: ACAD_2010_64bit_SWL_EN_D055_EXE1_MLD
+Product Name: AutoCAD 2010
+Platform: Windows XP/Vista
+Media: ESD
+Part Number: 001B1-05ZD01-P501E
+
+AutoCAD (s) is a registered trademark of Autodesk, Inc.
+Copyright 1982-2009 by Autodesk, Inc.  All rights reserved.
