@@ -1,0 +1,183 @@
+																													
+			Wind load Analysis For Rolling Shutter																										
+											as per Indian Standards IS  875 Part III 1987																		
+																													
+	"
+
+
+"		1	0.056								Project:	SUSTEN																
+			1.1	0.064								Client: 	MAHINDRA SUSTEN																
+			1.2	0.072								Date:	08/11/2017																
+			1.3	0.079								Height:	5000 mm																
+			1.4	0.085								Width:	5000 mm																
+			1.5	0.089								Slat Size:	75 mm																
+			1.75	0.1								Slat Width:	15 mm																
+			2	0.107																									
+	"Wind Load Analysis as per IS 875 - III
+"																												
+																													
+	Design Wind Speed Vz= Vb * k1 * k2 * k3																												
+	where Vb = Basic Wind Speed in m / s.												=	25 m/s															
+	k1 = Risk Coefficient (clause 5.)												=	1															
+	k2 = THS Factor       (clause 5.3												=	1															
+	k3 = Topography Factor (clause 5.)												=	1															
+	Vz = Design Wind Speed 												=	25 m/s															
+																													
+																													
+																													
+	Terrain Category: 							2																					
+	(Open terrain with well-scattered obstructions having heights between 1.5m to 10m)																												
+																													
+	Class of Building: A( Structures having max. dimensions is less then 20m)																												
+																													
+	"k1, k2 & k3 constants are derived from IS-875, based on location height of"																												
+	" structure & geographical factor. These factors are required for tall structures, "																												
+	Where we need to consider varying pressure condition.																												
+																													
+	"Wind Load Analysis as per IS 875 - III
+"																												
+																													
+		Design wind pressure 								=	0.6 x Vz2																		
+																													
+		" Where,"																											
+					 Pz =  Design wind pressure																								
+					                                        Vz = Design wind velocity																								
+																													
+									"Wind Pressure, Pz"	 = 0.6 x (25)2																			
+									"Wind Pressure, Pz"	=	375 N/m^2																		
+									Pz	=	0.000375 N/mm^2																		
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+	"Wind Load Analysis as per IS 875 - III
+"																												
+																													
+		Assumed  - Simply supported beam with uniform pressure.																											
+																													
+																													
+																													
+																													
+					375 N/m^2																								
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+	Contents:																												
+																													
+	A)Bending Moment																												
+																													
+	B)Deflection																												
+																													
+	C)Maximum Stress																												
+																													
+	D)Side guides for curtain																												
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+	A)Bending Moment																												
+																													
+		Door is simply supported on two opposite sides																											
+		  Max B.M.   M = à x W x L2/8																											
+			"Where, W= UDL load"																										
+					à= Bending moment coefficient as per IS 456:2000-Table26																								
+	B)Deflection																												
+	   Max. deflection will be at the centre of slat																												
+	D max = ( 5x M x L^2 ) / (48 x E x I)																												
+																													
+	"Where ,"																												
+	   M = Bending Moment of Slat																												
+	    E = Modules of Elasticity for CRS = 210GPa (KN/mm2)																												
+	    I = Moment of Inertia of slat (From CAD Data)																												
+	   L = Clear width of Shutter																												
+																													
+																													
+																													
+	C)Max Stress																												
+																													
+	Max. Stress=  M x ?/ I																												
+	"Where,"																												
+	"M=Bending moment of slat, ?= dist of side on y-y from CG , I= moment of inertia ,"																												
+	         																												
+				Permissible Stress =248/FOS																									
+	   											     =248/1.5																	
+												    = 165 N/sq.mm																	
+																													
+		D)Side Guides for Curtain panel 																											
+			Side Guides required = w/60																										
+			"Where,"																										
+					w= width of shutter																								
+																													
+																													
+	   																												
+																													
+																													
+																													
+																													
+			Design calculations for shutter of																										
+				Size: 5000mm(w) x 5000mm(H)																									
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+	1. Wind Analysis for rolling shutter of size 5000mm(w) x 5000mm(h)																												
+																													
+		Design Wind Speed Vz= Vb * k1 * k2 * k3																											
+		"where,"																											
+			 Vb = Basic Wind Speed in m / s.													=	25												
+			 k1 = Risk Coefficient (clause 5.4.1)     													=	1												
+			 k2 = THS Factor       (clause 5.3.2)       													=	1												
+			 k3 = Topography Factor (clause 5.3.3)  													=	1												
+			 Vz = Design wind Speed 													=	25 m/s												
+																													
+			Design wind pressure = 0.6x 25x25= 375 N/m2																										
+			"UDL acting on Slat, W = Pz x A/L"															"Where, A= Area of slat"											
+									=	0.000375 x ( 5000 x 75 ) / 5000																			
+								W	=	0.0281 N/mm																			
+			Bending Moment M = à.(W x L2)/8																										
+									=	0.056 x 0.0281 x 5000 x 5000 / 8																			
+									=	4917.50 N-mm																			
+? Assuming thickness of slat 1.2 mm & minimum height as 75mm & depth as 15mm.																													
+(From CAD DATA)						I=	1564 mm^4																						
+																													
+	E= modulus of elasticity for CRS= 											210 GPA																	
+											=	210000 N/mm^2																	
+	Max. deflection						=	5 x 4917.5 x 5000 x 5000 / ( 48 x 210000 x 1564 )																					
+							=	38.99 mm																					
+	Permissible deflection = 5000/150															"Note - As max. stress is less than permissible stress, hence no permanent deformation of slat will occur."													
+		As per IS:800						=	33.33333333 mm																				
+																													
+	Max. stress 				=	4917.5x15/(2x1564)																							
+					=	23.58 N/mm^2																							
+	Permissible stress    = (248 N/mm2) /1.5																												
+							=	165 N/mm^2																					
+																													
+	Guide side required = 5000/60 = 83.33																												
+	Hence we are using 100mm guide.																												
+																													
+																													
+																													
+																													
+																													
+																													
+																													
+								Thank You																					
