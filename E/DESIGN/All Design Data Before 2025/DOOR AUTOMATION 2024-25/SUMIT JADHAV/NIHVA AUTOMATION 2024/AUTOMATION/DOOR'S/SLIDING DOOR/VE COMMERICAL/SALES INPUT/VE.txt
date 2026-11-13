@@ -1,0 +1,54 @@
+Sr.
+No.	
+Description	
+Size	
+Qty
+			
+
+
+
+
+
+
+A	
+Motorised Sliding Door
+CE Certified As Per European Standard
+BS EN 13241-1:2003+A1:2011
+Bi parting
+1.50 mm thick MS Plain Sheet Single Side Automation System : Top Drive
+Vision Window - 2 Nos 1 on each leaf Epoxy Paint
+Integration with Motor for Auto-Closing.	
+
+(w)3m X (h)5m	
+
+2
+		
+
+
+(w)2.4m X (h)5m	
+
+
+1
+B	Supporting Structure	(w)3m X (h)5m	2
+C	Supporting Structure	(w)2.4m X (h)5m	1
+
+D	Security System.
+Bio-metric with Finger print and card- 10 Nos.		
+3
+E	Key Switch - 2 No.with additional 3 keys		3
+F	Safety Photocell - 1 Pair		3
+
+
+
+
+
+G	A)	5mm thick cover for Access control & Push button
+
+B)	Bottom Guider for better stability/Support with multiple groutings
+
+C)	C-Flat for Centre gap rubber fixing required in MS/GI
+
+D)	HOOD cover should be in full piece and not in piece		
+
+H	Web base application software with license with SQL data base (Which can be stored 1 Month data automatically in VECV Common drive)		
+1
