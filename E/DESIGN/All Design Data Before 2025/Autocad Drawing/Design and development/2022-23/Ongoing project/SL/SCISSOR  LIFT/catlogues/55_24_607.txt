@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-20042006-076621";"";
+"REFERENCE";"55 24 607";"";
+"TraceParts.PartTitle";"Worm gear motors";"";
+"TraceParts.InstanceId";"32-20042006-0766219H1OA6HLBNK6I5H0L4Q8RQKSH";"";
+"DESIGN";"Worm gear motors";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ATLANTA";"";
+"TraceParts.PartVersion";"1.4.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ATLANTA:32-20042006-076621";"";
