@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-21092016-091377";"";
+"REFERENCE";"6005";"";
+"TraceParts.PartVersion";"1.4.0";"";
+"TraceParts.InstanceId";"10-21092016-0913779HAAMWYE1MPBLP6IKCUCDMCHU";"";
+"TraceParts.PartTitle";"Deep groove ball bearings, single row";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Single row deep groove ball bearing, Bore Ø 25 mm, Outside Ø 47 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.0781";"";
