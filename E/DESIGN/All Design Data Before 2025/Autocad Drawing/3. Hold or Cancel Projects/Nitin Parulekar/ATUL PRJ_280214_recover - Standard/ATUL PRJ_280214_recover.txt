@@ -1,0 +1,50 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Tuesday, March 25, 2014, 11:10 AM.
+
+Drawing:
+This is a transmittal based on ATUL PRJ_280214_recover.dwg.
+
+Files:
+
+Root Drawing:
+	ATUL PRJ_280214_recover.dwg
+
+AutoCAD Drawing (External) References:
+	PLOT AREA.dwg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\NPAPL UNIVERSAL CTB.ctb
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\stylu.ttf
+	Fonts\arial.ttf
+	Fonts\bgothm.ttf
+	Fonts\GOTHIC.TTF
+	Fonts\techl___.ttf
+	Fonts\bgothl.ttf
+	Fonts\swisscl.ttf
+	Fonts\techb___.ttf
+	Fonts\ltypeshp.shx
+	Fonts\TXT.SHX
+	Fonts\verdana.ttf
+	Fonts\romant.shx
+
+The following files could not be located:
+	PlotCfgs\HP DesignJet 500 42 by HP TCP_IP.pc3
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\Abhijeet\appdata\roaming\autodesk\autocad 2010\r18.0\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
