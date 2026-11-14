@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"ISO 15977 - d 4 x l 16";"";
+"TraceParts.PartStandardAcronym";"ISO";"";
+"TraceParts.PartStatus";"Published";"";
+"DESIGN";"Blind rivet ISO 15977 - 4 x 16";"";
+"TraceParts.PartNumber";"10-13082008-083045";"";
+"TraceParts.PartLanguage";"en";"";
+"STANDARD";"ISO 15977";"";
+"TraceParts.InstanceId";"10-13082008-08304543T7YGVECQ08TZRP49DXTLPOZ";"";
+"TraceParts.PartTitle";"Open end blind rivets with break pull mandrel and protruding head - AIA/St";"";
+"TraceParts.PartVersion";"1.2.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ISO:10-13082008-083045";"";
