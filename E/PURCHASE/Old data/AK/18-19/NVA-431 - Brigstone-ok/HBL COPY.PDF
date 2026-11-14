@@ -1,0 +1,440 @@
+%PDF-1.4
+%”ÙÃ·
+% PDFsharp Version 1.32.2608.0 (verbose mode)
+% Creation date: 30/05/2019 13:12:41             
+% Creation time: 0.094 seconds                   
+% File size: 15102 bytes                         
+% Pages: 1                                       
+% Objects: 17                                    
+%--------------------------------------------------------------------------------------------------
+1 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
+<<
+  /CreationDate (D:20190530131241+01'00')
+  /Creator (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
+  /Producer (PDFsharp 1.32.2608-g \(www.pdfsharp.net\))
+  /Title (Created by NetFreight \(www.impatex.com\) )
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+2 0 obj   % PdfSharp.Pdf.Advanced.PdfCatalog
+<<
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+3 0 obj   % PdfSharp.Pdf.PdfPages
+<<
+  /Count 1
+  /Kids [4 0 R]
+  /Type /Pages
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+4 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 5 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 595 842]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ExtGState
+    <<
+      /GS0 6 0 R
+      /GS1 9 0 R
+    >>
+    /Font
+    <<
+      /F0 8 0 R
+      /F1 11 0 R
+      /F2 13 0 R
+      /F3 15 0 R
+      /F4 17 0 R
+    >>
+    /ProcSet [/PDF/Text/ImageB/ImageC/ImageI]
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+5 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 3802
+>>
+stream
+q
+2.835 0 0 -2.835 0 842 cm -100 Tz
+q
+BT
+/GS0 gs
+/F0 -2.5 Tf
+12 99.793 Td (Place of Receipt) Tj
+0 17 Td (Port of Discharge) Tj
+45 -9 Td (Port of Loading) Tj
+0 9 Td (Destination) Tj
+-45 9 Td (Marks & Numbers) Tj
+45 0 Td (Number and Kind of Packages, Description of goods) Tj
+92 0 Td (Gross Weight) Tj
+6 3 Td (\(Kg\)) Tj
+17 -3 Td (Cube \(m3\)) Tj
+ET
+0 w
+0 J
+0 j
+10 M
+[]0 d
+/GS1 gs
+11 12 90 110 re
+S
+11 40 m
+101 40 l
+S
+11 69 m
+101 69 l
+S
+11 97 m
+101 97 l
+S
+11 105 m
+101 105 l
+S
+11 114 m
+101 114 l
+S
+11 122 181 161 re
+S
+11 247 m
+192 247 l
+S
+105 247 m
+105 283 l
+S
+11 255 m
+192 255 l
+S
+11 263 m
+105 263 l
+S
+57 247 m
+57 263 l
+S
+56 122 m
+56 247 l
+S
+146 247 m
+146 122 l
+S
+169 247 m
+169 122 l
+S
+101 97 m
+192 97 l
+S
+192 122 m
+192 54 l
+S
+101 12 91 42 re
+S
+56 122 m
+56 97 l
+S
+101 20 m
+192 20 l
+S
+101 28 m
+192 28 l
+S
+101 37 m
+192 37 l
+S
+101 45 m
+192 45 l
+S
+146 28 m
+146 45 l
+S
+BT
+12 107.793 Td (Conveyance) Tj
+89 -93 Td (Customs Reference / Status) Tj
+0 8 Td (Shipper's Reference) Tj
+0 8 Td (Bill of Lading Number) Tj
+45 0 Td (Forwarder's Reference) Tj
+-45 9 Td (Estimated Departure Date) Tj
+45 0 Td (Estimated Arrival Date) Tj
+-45 8 Td (Booking Reference) Tj
+5 210 Td (For and on behalf of:) Tj
+-94 -8 Td (Seal Number) Tj
+46 0 Td (Freight Payable At) Tj
+-46 8 Td (Container Type/Size) Tj
+46 0 Td (Number of Original Bills of Lading) Tj
+-46 8 Td (For particulars of delivery please apply with the Original Bill of Lading to:) Tj
+94 -16 Td (Place and Date of Issue) Tj
+/F1 -3.571 Tf
+19 -173.803 Td (EUROPEAN FREIGHT LIMITED) Tj
+0 3.99 Td (UNIT 5, X2 BUILDING,) Tj
+0 3.99 Td (EASTERN PERIMETER ROAD,) Tj
+0 3.99 Td (HATTON CROSS,) Tj
+0 3.99 Td (TW6 2GE, LONDON) Tj
+/F1 -2.857 Tf
+-119 196.2422 Td (ìEUROPEAN FREIGHT LIMITED. REGISTERED NO. 7049232 \(REGISTERED IN ENGLAND & WALES\)î) Tj
+/F2 -2.857 Tf
+54 0.9721 Td (\(C\) Copyright Impatex Computer Systems Limited - www.impatex.com) Tj
+/F3 -3.214 Tf
+-34 -277.5731 Td (RECEIVED for shipment from in apparent good order and condition, except as noted in the Particulars.) Tj
+/F0 -2.5 Tf
+-14 4.202 Td (Shipper) Tj
+0 28 Td (Consignee \(if 'Order' state Notify Party and Address\)) Tj
+0 29 Td (Notify Party and Address \(Leave blank if stated above\)) Tj
+/F4 -2.857 Tf
+1 -52.5592 Td (ALBANY DOOR SYSTEMS GMBH) Tj
+0 3.2338 Td (AM MONDSCHEIN 20) Tj
+0 3.2338 Td (59557 LIPSTADT) Tj
+0 3.2338 Td (GERMANY) Tj
+0 18.2985 Td (NHIVA TECHNOLOGIES PVT LIMITED) Tj
+0 3.2338 Td (27 /8/1 COROMIONT HOUSING SOCIETY) Tj
+0 3.2338 Td (NIGHDI PRADHIKAR IN) Tj
+0 3.2338 Td (PUNE) Tj
+0 3.2338 Td (411044) Tj
+-1 42.0647 Td (HEMAU) Tj
+0 9 Td (MSC CRISTINA/IS922A) Tj
+45 0 Td (HAMBURG) Tj
+-45 8 Td (NHAVA SHEVA,IN ) Tj
+91 -85 Td (SE043834) Tj
+0 17 Td (SE043834) Tj
+0 -9 Td (02/06/2019) Tj
+/F0 -6.429 Tf
+4 62.9481 Td (HOUSE BILL OF LADING) Tj
+0 7.1819 Td (NON-NEGOTIABLE COPY) Tj
+/F0 -2.5 Tf
+-3 7.4291 Td (Contents, weight, value and measurement according to Shipper's declaration) Tj
+/F4 -2.857 Tf
+-92 10.4408 Td (CONTAINER NO ) Tj
+0 3.2338 Td (TRHU1970277 ) Tj
+0 3.2338 Td (SEAL NO ) Tj
+0 3.2338 Td (TSK4088391 ) Tj
+/F4 -3.571 Tf
+48 -7.893 Td (1 ) Tj
+/F4 -2.857 Tf
+0 5.1915 Td (STC. ) Tj
+0 3.2338 Td (20 PALLETS ) Tj
+0 3.2338 Td (HIGH SPEED ROLLER ) Tj
+0 3.2338 Td (DOOR RAPIDROLL ) Tj
+/F4 -3.571 Tf
+90 -13.893 Td (2496.00) Tj
+/F4 -2.857 Tf
+-122 117.1915 Td (TSK4088391) Tj
+/F0 -2.857 Tf
+-15 17.9581 Td (UNIQUE LOGISTICS INTERNATIONAL \(INDIA\) PVT LTD) Tj
+0 3.192 Td (A-103 ROAD, NO NH8) Tj
+0 3.192 Td (MAHIPALPUR NEW DELHI) Tj
+0 3.192 Td (110037 INDIA) Tj
+0 3.192 Td (CARR NO. # AAECR7397GCNDEL4) Tj
+/F1 -2.857 Tf
+94 -18.7679 Td (EUROPEAN FREIGHT LIMITED) Tj
+/F0 -3.571 Tf
+0 17.798 Td (SUMANJIT) Tj
+/F4 -2.857 Tf
+-95 -19.7561 Td (FCL) Tj
+61 -160 Td (TRHU1970277) Tj
+/F4 -2.5 Tf
+-16 -1.4042 Td (Container No) Tj
+/F4 -2.857 Tf
+49 154.4042 Td (LONDON   -     ) Tj
+41 -219 Td (459E32SU0PM) Tj
+ET
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+6 0 obj   % PdfSharp.Pdf.Advanced.PdfExtGState
+<<
+  /ca 1
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+7 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 905
+  /CapHeight 716
+  /Descent -212
+  /Flags 32
+  /FontBBox [-665 -325 2000 1006]
+  /FontName /Arial
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 519
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+8 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /Arial
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 7 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 556 333 556 556 500 556 556 277 556 556 222 222 500 222 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 750 556 750 222 556 333 1000 556 556 333 1000 666 333 1000 750 610 750 750 222 222 333 333 350 556 1000 333 1000 500 333 943 750 500 666 277 333 556 556 556 556 259 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 537 333 333 333 365 556 833 833 833 610 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 277 277 277 277 556 556 556 556 556 556 556 548 610 556 556 556 556 500 556 500]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+9 0 obj   % PdfSharp.Pdf.Advanced.PdfExtGState
+<<
+  /CA 1
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+10 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 905
+  /CapHeight 716
+  /Descent -212
+  /Flags 32
+  /FontBBox [-628 -376 2000 1018]
+  /FontName /Arial,Bold
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 519
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+11 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /Arial,Bold
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 10 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 333 474 556 556 889 722 237 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 333 333 583 583 583 610 975 722 722 722 722 666 610 777 722 277 556 722 610 833 722 777 666 777 722 666 610 722 666 943 666 666 610 333 277 333 583 556 333 556 610 556 610 556 333 610 610 277 277 556 277 889 610 610 610 610 389 556 333 610 556 777 556 556 500 389 279 389 583 750 556 750 277 556 500 1000 556 556 333 1000 666 333 1000 750 610 750 750 277 277 500 500 350 556 1000 333 1000 556 333 943 750 500 666 277 333 556 556 556 556 279 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 556 333 333 333 365 556 833 833 833 610 722 722 722 722 722 722 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 556 556 556 556 556 277 277 277 277 610 610 610 610 610 610 610 548 610 610 610 610 610 556 610 556]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+12 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 891
+  /CapHeight 662
+  /Descent -216
+  /Flags 32
+  /FontBBox [-568 -307 2000 1007]
+  /FontName /TimesNewRoman
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 447
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+13 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /TimesNewRoman
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 12 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 777 250 333 408 500 500 833 777 180 333 333 500 563 250 333 250 277 500 500 500 500 500 500 500 500 500 500 277 277 563 563 563 443 920 722 666 666 722 610 556 722 722 333 389 722 610 889 722 722 556 722 666 556 610 722 722 943 722 722 610 333 277 333 469 500 333 443 500 443 500 443 333 500 500 277 277 500 277 777 500 500 500 500 333 389 277 500 500 722 500 500 443 479 200 479 541 777 500 777 333 500 443 1000 500 500 333 1000 556 333 889 777 610 777 777 333 333 443 443 350 500 1000 333 979 389 333 722 777 443 722 250 333 500 500 500 500 200 500 333 759 275 500 563 333 759 500 399 548 299 299 333 576 453 333 333 299 310 500 750 750 750 443 722 722 722 722 722 722 889 666 610 610 610 610 333 333 333 333 722 722 722 722 722 722 722 563 722 722 722 722 722 722 556 500 443 443 443 443 443 443 666 443 443 443 443 443 277 277 277 277 500 500 500 500 500 500 500 548 500 500 500 500 500 500 500 500]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+14 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 905
+  /CapHeight 716
+  /Descent -212
+  /Flags 32
+  /FontBBox [-517 -325 1359 998]
+  /FontName /Arial,Italic
+  /ItalicAngle -12
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 519
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+15 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /Arial,Italic
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 14 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 277 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 556 333 556 556 500 556 556 277 556 556 222 222 500 222 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 750 556 750 222 556 333 1000 556 556 333 1000 666 333 1000 750 610 750 750 222 222 333 333 350 556 1000 333 1000 500 333 943 750 500 666 277 333 556 556 556 556 259 556 333 736 370 556 583 333 736 552 399 548 333 333 333 576 537 333 333 333 365 556 833 833 833 610 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 277 277 277 277 556 556 556 556 556 556 556 548 610 556 556 556 556 500 556 500]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+16 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 922
+  /CapHeight 716
+  /Descent -210
+  /Flags 32
+  /FontBBox [-580 -216 1483 1003]
+  /FontName /MicrosoftSansSerif
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 518
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+17 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /MicrosoftSansSerif
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 16 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 265 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 551 333 556 556 500 556 556 277 556 556 228 228 500 228 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 292 556 292 277 556 391 565 556 556 333 1000 666 333 1000 292 610 292 292 222 222 333 333 350 292 585 333 683 500 333 943 292 500 666 265 277 556 556 556 556 259 556 333 736 370 556 583 333 736 500 399 583 333 333 333 556 537 277 333 333 365 556 833 833 833 556 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 228 228 228 228 556 556 556 556 556 556 556 583 556 556 556 556 556 500 556 500]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+xref
+0 18
+0000000000 65535 f 
+0000000411 00000 n 
+0000000779 00000 n 
+0000000969 00000 n 
+0000001158 00000 n 
+0000001703 00000 n 
+0000005695 00000 n 
+0000005882 00000 n 
+0000006226 00000 n 
+0000007570 00000 n 
+0000007757 00000 n 
+0000008107 00000 n 
+0000009457 00000 n 
+0000009810 00000 n 
+0000011160 00000 n 
+0000011513 00000 n 
+0000012866 00000 n 
+0000013224 00000 n 
+trailer
+<<
+  /ID [<11EF42D7E7E24847A99ED0D6CF0FB9D0><11EF42D7E7E24847A99ED0D6CF0FB9D0>]
+  /Info 1 0 R
+  /Root 2 0 R
+  /Size 18
+>>
+startxref
+14580
+%%EOF
