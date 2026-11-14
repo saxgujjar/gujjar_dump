@@ -1,0 +1,4 @@
+BOM_PART_TYPE,NN,NT,LINA,BOM_UNITBASE,BOM_COUNT,BOM_POS,NB,ISBOM,ISCAD,ANGLE,ANGLE2,D1,D2,D3,DESCRIPTION,DIM01,DIM02,DIM03,DIM04,DIM05,DIM06,DIM07,DIM08,DIM09,DIM10,DIM11,DIM12,DIM13,DIM14,DIM15,DIM16,PARTNUMBER,R1,R2,VER,WEIGHT,DIM04X,DIM05X,DIM06X,DIM07X,DIM08X,DIM09X,DIM10X,DIM11X,DIM12X,DIM13X,DIM14X,VERS,VERSX,D,H,H1,H2,H3,L,L1,M,S,S2,X,Y,DIMENSION_X,DIMENSION_Y,DIMENSION_Z
+,,,,,,,,,,,,,,,Description,D,,,,,,,,,,,,,,,,,,,,Weight,,,,,,,,,,,,,,,,,,,Lenght,,,,,,,,,
+,,,,,,,,,,mm,mm,mm,mm,mm,,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,,,,mm,mm,mm,,mm,mm,mm,,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,mm,,mm,mm,mm,mm,mm,mm,,,
+ASSEMBLY,RE.F5-N Dummy,Mould-on polyurethane wheels with steel sheet bracket,Mould-on polyurethane wheels with steel sheet bracket RE.F5-080-PSL-Nd,mm,1,1,Mould-on polyurethane wheels with steel sheet bracket RE.F5-080-PSL-Nd,,,,,,,,RE.F5-080-PSL-N,80,25,107,100,85,9,75,45,80,60,-,-,-,-,1500,2000,451651,,,,520,,,,,,,,,,,,,,,,,,,,,,,,,,100,107,85
