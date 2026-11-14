@@ -1,0 +1,402 @@
+                                     Original (Customs copy) 
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:9868707/31/01/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE/MAH.                           411044         Payment Method  :  Transaction
+
+ IGM No  :1558930/31/01/2019 31/01/2019 Port Of Loading :FRANKFURT/MAIN INT'L 
+Cntry Of Orgn.: GERMANY                Cntry Of Consgn.:                    
+MAWB No       : 02084121306            HAWB No         : 60039546            
+Date          : 30/01/2019             Date            : 30/01/2019
+No. Of Pkgs.  : 2 PKG                  Gross Wt.       :       13.000 KGS
+Marks:AS PER AWB                               
+& Nos                                          
+                                               
+Inv No & Dt. : 90756065   21/01/2019          ALBANY DOOR SYSTEMS GMBH           
+Inv Val      :      1693.32 EUR TOI: FOB      AM MONDSCHEIN 25 DE-59557 LIPPSTADT
+Freight      :     19860.00 INR              , , Germany                        
+Insurance    : 1598.68      INR                                                 
+SVB Load(Ass):               Cust. House:     Germany                  -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00           25.00    EUR  
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                    
+                                                                      
+                                                                               
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 82.7000 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     39252000  SLIDING RAIL 3000 MM LONG (3 SET)                               
+           
+0.01           11751.000000  39252000                   10.00 %       1135.10
+KGS           11350.70       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        113.50
+            IGST                   001/2017 III110      18.00 %     2267.90
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      11350.70                  Page Total         Rs.       3516.50
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:2
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:9868707/31/01/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90756065   21/01/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+2     39252000  ROPE PULLEY (3 SET)                                             
+
+0.24           183.250000    39252000                   10.00 %        424.80
+KGS           4248.18        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         42.50
+            IGST                   001/2017 III110      18.00 %      848.80
+            GST Cess               001/2017 56           0.00 %        0.00
+3     39252000  ROPE D 7MM ARAMID YELLOW L-7000MM (3 SET)                       
+                   
+1.32           187.575758    39252000                   10.00 %       2391.70
+KGS           23916.56       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        239.20
+            IGST                   001/2017 III110      18.00 %     4778.50
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      39515.44                  Page Total         Rs.      12242.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:3
+--------------------------------------------------------------------[ NIC ]-----
+                                      2/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:9868707/31/01/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90756065   21/01/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+4     39252000  ROPE D 5MM L-24000MM (3 SET)                                    
+      
+1.08           269.314815    39252000                   10.00 %       2809.50
+KGS           28095.19       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        281.00
+            IGST                   001/2017 III110      18.00 %     5613.40
+            GST Cess               001/2017 56           0.00 %        0.00
+5     39252000  DISTANCE SPACER (3 SET)                                         
+ 
+0.30           133.566667    39252000                   10.00 %        387.10
+KGS           3870.50        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         38.70
+            IGST                   001/2017 III110      18.00 %      773.30
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      71481.13                  Page Total         Rs.      22145.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:4
+--------------------------------------------------------------------[ NIC ]-----
+                                      3/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:9868707/31/01/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90756065   21/01/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+6     73083000  BELL MOUTH (3 SET)                                              
+
+0.21           687.285714    73083000 050/2017 377      10.00 %       1394.10
+KGS           13941.34       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        139.40
+            IGST                   001/2017 III222      18.00 %     2785.50
+            GST Cess               001/2017 56           0.00 %        0.00
+7     73083000  BELL MOUTH RIGHT (3 SET)                                        
+  
+0.36           355.055556    73083000 050/2017 377      10.00 %       1234.70
+KGS           12346.58       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        123.50
+            IGST                   001/2017 III222      18.00 %     2466.90
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      97769.05                  Page Total         Rs.      30289.10
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:5
+--------------------------------------------------------------------[ NIC ]-----
+                                      4/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:9868707/31/01/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90756065   21/01/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+8     73083000  BELL MOUTH BACK  (3 SET)                                        
+  
+0.36           223.750000    73083000 050/2017 377      10.00 %        778.10
+KGS           7780.61        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         77.80
+            IGST                   001/2017 III222      18.00 %     1554.60
+            GST Cess               001/2017 56           0.00 %        0.00
+9     39252000  WIND BREAKTAPS  (3 SET)                                         
+ 
+0.30           580.966667    39252000                   10.00 %       1683.50
+KGS           16835.28       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        168.40
+            IGST                   001/2017 III110      18.00 %     3363.70
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     122384.94                  Page Total         Rs.      37915.20
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:6
+--------------------------------------------------------------------[ NIC ]-----
+                                      5/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:9868707/31/01/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90756065   21/01/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+10    39252000  BREAK 15 NM 196V DC HL  (1 SET)                                 
+         
+3.05           139.773770    39252000                   10.00 %       4117.90
+KGS           41178.78       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        411.80
+            IGST                   001/2017 III110      18.00 %     8227.50
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     163563.72                  Page Total         Rs.      50672.40
+               Rs.     163563.72     BE Gross Total         Rs.      50672.40
+BCD            Rs.      16356.50     NCD Duty               Rs.          0.00
+ANTID          Rs.          0.00     SAFEGUARD Duty         Rs.          0.00
+CVD            Rs.          0.00     Sch 2 Spl Excise Duty  Rs.          0.00
+CESS           Rs.          0.00     GSIA                   Rs.          0.00
+TTA            Rs.          0.00    
+Edu. Cess CVD  Rs.          0.00     Customs Edu. Cess      Rs.          0.00
+Health CVD     Rs.          0.00     Addl Duty - (Imports)  Rs.          0.00
+SHE. Cess CVD  Rs.          0.00     SH Cust Edu. Cess      Rs.          0.00
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.      50672
+Rs. Fifty Thousand Six Hundred and Seventy Two only                                
+--------------------------------------------------------------------------------
+
+
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA          181556        32680            0
+
+			
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+
+Signature                             Signature
+--------------------------------------------------------------------[ NIC ]-----
+                                      6/ 6
+
+
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+
+
+
+                                Examination Order        Dated:31/01/2019
+
+___________________________________________________________________________
+
+
+BE No 9868707,BE dt 31/01/2019, CC N, Type H 
+
+Importer :NIHVA TECHNOLOGIES PVT. LTD.
+
+IEC [ 3112013816 ]
+                                                CHA [ AAFCS2365ACH001 ]
+
+Appraising Group : 2G
+
+Officer              :Mukesh Shukla
+
+Examination order    :
+
+
+Examination has not been prescribed for this BE.So Examination Order is not 
+Required
+
+FOLLOW CCR.
+ By 10031887 on 31/01/2019  at 01:59P.M.
+
+
+IEC CCR Examination Instructions :
+
+
+
+Compulsary Compliance Requirements : 1 
+
+Mandatory Compliance Requirements Examination Instructions (CTH) - 39252000 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 73083000 
+"" #Mandatory Compliance Requirements Examination Instructions (FOR NOTIFICA
+TION) -050/2017 377 VFY GOODS  OTHER THAN THOSE AT SERIAL NO. 377A (OTHER TH
+AN SCREW (73181500) AND SIM SOCKET/OTHER MECHANICAL ITEMS (METAL) (73269099)
+ FOR CELLULAR MOBILE PHONE).  REFER TO CBEC  NOTFN. NO. 49/2018 DATED 20.06.
+2018.
+
+
+AC Remarks                Name:Vinayak B
+ 
+
+Inspector Report          
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ [CHA]            [EO/Inspector]           [Shed AO/Supdt]
