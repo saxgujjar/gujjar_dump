@@ -1,0 +1,70 @@
+                                  Original (Customs copy) 
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:4422107/23/06/2021/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PRIVATE LIMITED                
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE                                411044         Payment Method  :  Transaction
+ IGM No  :1925410/26/06/2021 26/06/2021 Port Of Loading :ISTANBUL             
+Cntry Of Orgn.: TURKEY                 Cntry Of Consgn.:                    
+MAWB No       : 07756759205            HAWB No         : 0005561             
+Date          : 21/06/2021             Date            : 21/06/2021
+No. Of Pkgs.  : 1 PKG                  Gross Wt.       :      288.000 KGS
+Marks:AS PER AWB                               
+& Nos                                                                                         
+Inv No & Dt. : GIB2021000000127 16/06/2021          UZEL KAPI SISTEMLERIMUHENDISLIK IC V
+Inv Val      :      3800.00 EUR TOI: FOB      100/1 SK GOZTEPE MAHALLESI NO.33/A 
+Freight      :       707.00 EUR              KONAK, IZMIR Izmir, , Turkey       
+Insurance    : 141.25       INR                                                 
+SVB Load(Ass):               Cust. House:     Turkey                   -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00            0.00         
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                                                                                                                                                                        
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 90.0000 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     39252000  HIGH SPEED DOOR 1340 x 2000 MM (YUKSEK HIZLI KAPI)                                          
+2             1900.000000   39252000                   15.00 %      60865.70
+            Cus AIDC                     011/2021 17       0.00%          0.00
+NOS           405771.25      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       6086.60
+            IGST                   001/2017 III110      18.00 %    85090.20
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     405771.25                  Page Total         Rs.     152042.50
+               Rs.     405771.25     BE Gross Total         Rs.     152042.50
+BCD            Rs.      60865.70     NCD Duty               Rs.          0.00
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.     152043
+Rs. One Lakh Fifty Two Thousand and Forty Three only                               
+--------------------------------------------------------------------------------
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA          472724        85090            0			
+
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PRIVATE LIMITED              
+Signature                             Signature
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/ 1
