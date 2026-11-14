@@ -1,0 +1,7 @@
+Sr.No	Site Name	Site location	Product location	Clear Width	Clear Height	Product
+ 	 	 	 	 	 	 	 
+1	Bharat Forge	Mundhwa,pune	Truck Entrance	5100 mm	1680 mm	sliding gate	 
+ 			 	 	 	 	 
+2			Press Shop Entrance	4010 mm	1680 mm	Sliding gate	turnstile
+
+They have parking area on both the side 
