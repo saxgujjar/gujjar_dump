@@ -1,0 +1,136 @@
+                                     Original (Customs copy) 
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:8953848/26/09/2020/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE/MAH.                           411044         Payment Method  :  Transaction
+ IGM No  :1850219/05/10/2020 05/10/2020 Port Of Loading :ISTANBUL             
+Cntry Of Orgn.: TURKEY                 Cntry Of Consgn.:                    
+MAWB No       : 07756398565            HAWB No         : 2020582             
+Date          : 25/09/2020             Date            : 25/09/2020
+No. Of Pkgs.  : 1 PKG                  Gross Wt.       :      180.000 KGS
+Marks:AS PER AWB                               
+& Nos                                          
+Inv No & Dt. : 20200901   01/09/2020          UZEL KAPI SISTEMLERIMUHENDISLIK IC V
+Inv Val      :      2095.00 EUR TOI: FOB      100/1 SK GOZTEPE MAHALLESI NO.33/A 
+Freight      :     36360.00 INR              KONAK, IZMIR Izmir, , Turkey       
+Insurance    : 76.14        INR                                                 
+SVB Load(Ass):               Cust. House:     Turkey                   -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00        17400.00    INR  
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                    
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 88.2000 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     39252000  HIGH SPEED 1800 X 2000 MM MACHINE PROTECTION DOOR               
+                           
+1             2095.000000   39252000                   10.00 %      23861.50
+NOS           238615.14      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2386.20
+            IGST                   001/2017 III110      18.00 %    47675.30
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     238615.14                  Page Total         Rs.      73923.00
+               
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.      73923
+Rs. Seventy Three Thousand Nine Hundred and Twenty Three only                      
+--------------------------------------------------------------------------------
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA          264863        47675            0
+
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+
+Signature                             Signature
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/ 1
+
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+
+
+
+                                Examination Order        Dated:05/10/2020
+
+___________________________________________________________________________
+
+
+BE No 8953848,BE dt 26/09/2020, CC N, Type H 
+
+Importer :NIHVA TECHNOLOGIES PVT. LTD.
+
+IEC [ 3112013816 ]
+                                                CHA [ AAFCS2365ACH001 ]
+
+Appraising Group : 2G
+
+
+
+Examination order    :
+
+
+Assessment and Examination has not been prescribed for this BE.
+
+
+
+IEC CCR Examination Instructions :
+
+
+
+Compulsary Compliance Requirements : 0 
+
+ 
+
+
+
+
+ 
+
+Inspector Report          
+
+
+
+ 
+
+
+
+
+
+Superintendent comments     :
+
+
+
+ 
+
+
+
+
+
+
+ [CHA]            [EO/Inspector]           [Shed AO/Supdt]
+
+
