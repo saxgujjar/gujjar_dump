@@ -1,0 +1,408 @@
+                                     Original (Customs copy) 
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2554296/25/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE/MAH.                           411044         Payment Method  :  Transaction
+
+ IGM No  :1593819/23/03/2019 24/03/2019 Port Of Loading :LONDON - HEATHROW    
+Cntry Of Orgn.: GERMANY                Cntry Of Consgn.:UNITED KINGDOM      
+MAWB No       : 58979343876            HAWB No         : 034684              
+Date          : 22/03/2019             Date            : 22/03/2019
+No. Of Pkgs.  : 11 PKG                 Gross Wt.       :     1516.000 KGS
+Marks:AS PER AWB                               
+& Nos                                          
+                                               
+Inv No & Dt. : 90770600   13/03/2019          ALBANY DOOR SYSTEMS GMBH           
+Inv Val      :     24486.00 EUR TOI: FOB      AM MONDSCHEIN 25 DE-59557 LIPPSTADT
+Freight      :    271586.00 INR              , , Germany                        
+Insurance    : 947.71       INR                                                 
+SVB Load(Ass):               Cust. House:     Germany                  -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00            0.00         
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                    
+                                                                      
+                                                                               
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 80.0000 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     39252000  ASSA ABLOY HS9020 G/IN59118A (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+KGS           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     202855.79                  Page Total         Rs.      62844.80
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:2
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2554296/25/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770600   13/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+2     39252000  ASSA ABLOY HS9020 G/IN59118B (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+3     39252000  ASSA ABLOY HS9020 G/IN59118C (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     608567.37                  Page Total         Rs.     188534.40
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:3
+--------------------------------------------------------------------[ NIC ]-----
+                                      2/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2554296/25/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770600   13/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+4     39252000  ASSA ABLOY HS9020 G/IN59118D (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+5     39252000  ASSA ABLOY HS9020 G/IN59118E (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.    1014278.95                  Page Total         Rs.     314224.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:4
+--------------------------------------------------------------------[ NIC ]-----
+                                      3/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2554296/25/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770600   13/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+6     39252000  ASSA ABLOY HS9020 G/IN59118F (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+7     39252000  ASSA ABLOY HS9020 G/IN59118G (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.    1419990.53                  Page Total         Rs.     439913.60
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:5
+--------------------------------------------------------------------[ NIC ]-----
+                                      4/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2554296/25/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770600   13/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+8     39252000  ASSA ABLOY HS9020 G/IN59118H (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+9     39252000  ASSA ABLOY HS9020 G/IN59118I (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.    1825702.11                  Page Total         Rs.     565603.20
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:6
+--------------------------------------------------------------------[ NIC ]-----
+                                      5/ 6
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2554296/25/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770600   13/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+10    39252000  ASSA ABLOY HS9020 G/IN59118J (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+11    39252000  ASSA ABLOY HS9020 G/IN59118K (HIGH SPEED DOOR 2420              
+ x 3000 MM)
+1.00           2226.000000   39252000                   10.00 %      20285.60
+SET           202855.79      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       2028.60
+            IGST                   001/2017 III110      18.00 %    40530.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.    2231413.69                  Page Total         Rs.     691292.80
+               Rs.    2231413.69     BE Gross Total         Rs.     691292.80
+BCD            Rs.     223141.60     NCD Duty               Rs.          0.00
+ANTID          Rs.          0.00     SAFEGUARD Duty         Rs.          0.00
+CVD            Rs.          0.00     Sch 2 Spl Excise Duty  Rs.          0.00
+CESS           Rs.          0.00     GSIA                   Rs.          0.00
+TTA            Rs.          0.00    
+Edu. Cess CVD  Rs.          0.00     Customs Edu. Cess      Rs.          0.00
+Health CVD     Rs.          0.00     Addl Duty - (Imports)  Rs.          0.00
+SHE. Cess CVD  Rs.          0.00     SH Cust Edu. Cess      Rs.          0.00
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.     691293
+Rs. Six Lakh Ninety One Thousand Two Hundred and Ninety Three only                 
+--------------------------------------------------------------------------------
+
+
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA         2476869       445837            0
+
+			
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+
+Signature                             Signature
+--------------------------------------------------------------------[ NIC ]-----
+                                      6/ 6
+
+
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+
+
+
+                                Examination Order        Dated:26/03/2019
+
+___________________________________________________________________________
+
+
+BE No 2554296,BE dt 25/03/2019, CC N, Type H 
+
+Importer :NIHVA TECHNOLOGIES PVT. LTD.
+
+IEC [ 3112013816 ]
+                                                CHA [ AAFCS2365ACH001 ]
+
+Appraising Group : 2G
+
+Officer              :RAJIV KAKERI
+
+Examination order    :
+
+
+Examination has not been prescribed for this BE.So Examination Order is not 
+Required
+
+VFY AUD/CCR INST
+ By 10019965 on 26/03/2019  at 05:58P.M.
+
+
+IEC CCR Examination Instructions :
+
+
+
+Compulsary Compliance Requirements : 1 
+
+Mandatory Compliance Requirements Examination Instructions (CTH) - 39252000 
+"" 
+
+
+AC Remarks                Name:Vinayak B
+ 
+
+Inspector Report          
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ [CHA]            [EO/Inspector]           [Shed AO/Supdt]
+
