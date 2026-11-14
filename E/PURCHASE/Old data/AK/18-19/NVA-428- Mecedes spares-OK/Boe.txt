@@ -1,0 +1,660 @@
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE/MAH.                           411044         Payment Method  :  Transaction
+
+ IGM No  :      0/                      Port Of Loading :FRANKFURT/MAIN INT'L 
+Cntry Of Orgn.: GERMANY                Cntry Of Consgn.:                    
+MAWB No       : 02034699512            HAWB No         : 10026470            
+Date          : 18/03/2019             Date            : 18/03/2019
+No. Of Pkgs.  : 1 PKG                  Gross Wt.       :       15.000 KGS
+Marks:AS PER AWB                               
+& Nos                                          
+                                               
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+Inv Val      :      2758.03 EUR TOI: FOB      AM MONDSCHEIN 25 DE-59557 LIPPSTADT
+Freight      :     19708.00 INR              , , Germany                        
+Insurance    : 107.71       INR                                                 
+SVB Load(Ass):               Cust. House:     Germany                  -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00           25.00    EUR  
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                    
+                                                                      
+                                                                               
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 80.7500 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     73121010  EMERGENCY LEVER (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           117.760000    73121010 050/2017 377      10.00 %       1044.10
+SET           10441.39       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        104.40
+            IGST                   001/2017 III226      18.00 %     2086.20
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      10441.39                  Page Total         Rs.       3234.70
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+2     39252000  CABLE CHAIN DRIVE SIDE (SPARES FOR HIGH SPEED ROLL              
+ER DOOR RAPIDROLL)
+1.00           151.780000    39252000                   10.00 %       1345.80
+SET           13457.83       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        134.60
+            IGST                   001/2017 III110      18.00 %     2688.90
+            GST Cess               001/2017 56           0.00 %        0.00
+3     39252000  CABLE CHAIN NON DRIVE SIDE (SPARES FOR HIGH SPEED               
+ROLLER DOOR RAPIDROLL)
+1.00           151.780000    39252000                   10.00 %       1345.80
+SET           13457.83       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        134.60
+            IGST                   001/2017 III110      18.00 %     2688.90
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      37357.05                  Page Total         Rs.      11573.30
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      2/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+4     85441990  CABLE PHOTOCELL (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           43.380000     85441990 050/2017 491       7.50 %        288.50
+SET           3846.36        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         28.80
+            IGST                   001/2017 III395      18.00 %      749.50
+            GST Cess               001/2017 56           0.00 %        0.00
+5     85441990  CABLE PHOTOCELL (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           48.900000     85441990 050/2017 491       7.50 %        325.20
+SET           4335.80        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         32.50
+            IGST                   001/2017 III395      18.00 %      844.80
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      45539.21                  Page Total         Rs.      13842.60
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      3/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+6     85441990  CABLE PHOTOCELL (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           52.340000     85441990 050/2017 491       7.50 %        348.10
+SET           4640.81        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         34.80
+            IGST                   001/2017 III395      18.00 %      904.30
+            GST Cess               001/2017 56           0.00 %        0.00
+7     85369090  PHOTOCELL BLUE (SPARES FOR HIGH SPEED ROLLER DOOR               
+RAPIDROLL)                            
+3.00           96.180000     85369090                   10.00 %       2558.40
+SET           25583.89       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        255.80
+            IGST                   001/2017 III388A     18.00 %     5111.70
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      75763.91                  Page Total         Rs.      23055.70
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      4/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+8     85369090  PHOTOCELL BLACK (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+2.00           99.520000     85369090                   10.00 %       1764.80
+SET           17648.22       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        176.50
+            IGST                   001/2017 III388A     18.00 %     3526.10
+            GST Cess               001/2017 56           0.00 %        0.00
+9     85369090  SAFETY PHOTOCELL GRAY (SPARES FOR HIGH SPEED ROLLE              
+R DOOR RAPIDROLL)
+1.00           137.580000    85369090                   10.00 %       1219.90
+SET           12198.76       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        122.00
+            IGST                   001/2017 III388A     18.00 %     2437.30
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     105610.89                  Page Total         Rs.      32302.30
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      5/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+10    85369090  SAFETY PHOTOCELL RED(SPARES FOR HIGH SPEED ROLLER               
+DOOR RAPIDROLL)
+2.00           118.885000    85369090                   10.00 %       2108.20
+SET           21082.28       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        210.80
+            IGST                   001/2017 III388A     18.00 %     4212.20
+            GST Cess               001/2017 56           0.00 %        0.00
+11    73089090  BRACKET PHOTOCELL RIGHT (SPARES FOR HIGH SPEED ROL              
+LER DOOR RAPIDROLL)
+2.00           37.945000     73089090 050/2017 377      10.00 %        672.90
+SET           6728.91        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         67.30
+            IGST                   001/2017 III222      18.00 %     1344.40
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     133422.08                  Page Total         Rs.      40918.10
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      6/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+12    73089090  ACTIVATOR PROXIMITY SWITCH RIGHT(SPARES FOR HIGH S              
+PEED ROLLER DOOR RAPIDROLL)
+1.00           17.440000     73089090 050/2017 377      10.00 %        154.60
+SET           1546.35        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         15.50
+            IGST                   001/2017 III222      18.00 %      309.00
+            GST Cess               001/2017 56           0.00 %        0.00
+13    73089090  ACTIVATOR PROXIMITY SWITCH LEFT (SPARES FOR HIGH S              
+PEED ROLLER DOOR RAPIDROLL)
+1.00           17.440000     73089090 050/2017 377      10.00 %        154.60
+SET           1546.35        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         15.50
+            IGST                   001/2017 III222      18.00 %      309.00
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     136514.78                  Page Total         Rs.      41876.30
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      7/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+14    39259010  CABLE CHAIN (SPARES FOR HIGH SPEED ROLLER DOOR RAP              
+IDROLL)                            
+2.00           139.015000    39259010                   10.00 %       2465.20
+SET           24652.00       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        246.50
+            IGST                   001/2017 III110      18.00 %     4925.50
+            GST Cess               001/2017 56           0.00 %        0.00
+15    85369090  SAFETY SWITCH SCHMERSAL (SPARES FOR HIGH SPEED ROL              
+LER DOOR RAPIDROLL)
+1.00           131.310000    85369090                   10.00 %       1164.30
+SET           11642.82       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        116.40
+            IGST                   001/2017 III388A     18.00 %     2326.20
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     172809.60                  Page Total         Rs.      53120.40
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      8/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+16    85441990  CABLE (SPARES FOR HIGH SPEED ROLLER DOOR RAPIDROLL              
+)                            
+1.00           73.530000     85441990 050/2017 491       7.50 %        489.00
+SET           6519.66        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         48.90
+            IGST                   001/2017 III395      18.00 %     1270.40
+            GST Cess               001/2017 56           0.00 %        0.00
+17    40169330  DAMPER (SPARES FOR HIGH SPEED ROLLER DOOR RAPIDROL              
+L)                            
+2.00           4.450000      40169330                   10.00 %         78.90
+SET           789.13         NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %          7.90
+            IGST                   001/2017 III123A     18.00 %      157.70
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     180118.39                  Page Total         Rs.      55173.20
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      9/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+18    85369090  PHOTOCELL BLACK (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           99.520000     85369090                   10.00 %        882.40
+SET           8824.11        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         88.20
+            IGST                   001/2017 III388A     18.00 %     1763.10
+            GST Cess               001/2017 56           0.00 %        0.00
+19    85441990  CABLE PHOTOCELL (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           40.550000     85441990 050/2017 491       7.50 %        269.70
+SET           3595.43        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         27.00
+            IGST                   001/2017 III395      18.00 %      700.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     192537.93                  Page Total         Rs.      58904.20
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      10/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+20    39259010  CABLE CHAIN SAFETY EDGE (SPARES FOR HIGH SPEED ROL              
+LER DOOR RAPIDROLL)
+1.00           126.980000    39259010                   10.00 %       1125.90
+SET           11258.90       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        112.60
+            IGST                   001/2017 III110      18.00 %     2249.50
+            GST Cess               001/2017 56           0.00 %        0.00
+21    85369090  SAFETY PHOTOCELL YELLOW (SPARES FOR HIGH SPEED ROL              
+LER DOOR RAPIDROLL)
+1.00           137.580000    85369090                   10.00 %       1219.90
+SET           12198.76       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        122.00
+            IGST                   001/2017 III388A     18.00 %     2437.30
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     215995.59                  Page Total         Rs.      66171.40
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      11/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+22    85441990  CABLE PHOTOCELL (SPARES FOR HIGH SPEED ROLLER DOOR              
+ RAPIDROLL)
+1.00           40.550000     85441990 050/2017 491       7.50 %        269.70
+SET           3595.43        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         27.00
+            IGST                   001/2017 III395      18.00 %      700.60
+            GST Cess               001/2017 56           0.00 %        0.00
+23    85369090  REFLECTIVE PHOTOCELL (SPARES FOR HIGH SPEED ROLLER              
+ DOOR RAPIDROLL)
+1.00           161.230000    85369090                   10.00 %       1429.60
+SET           14295.73       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        143.00
+            IGST                   001/2017 III388A     18.00 %     2856.30
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     233886.75                  Page Total         Rs.      71597.60
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      12/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:2506545/20/03/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90770837   14/03/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+24    39259010  REFLECTOR (SPARES FOR HIGH SPEED ROLLER DOOR RAPID              
+ROLL)                            
+1.00           25.570000     39259010                   10.00 %        226.70
+SET           2267.21        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         22.70
+            IGST                   001/2017 III110      18.00 %      453.00
+            GST Cess               001/2017 56           0.00 %        0.00
+25    85369090  PULL SWITCH WITH BRACKET (SPARES FOR HIGH SPEED RO              
+LLER DOORRAPIDROLL)
+1.00           94.640000     85369090                   10.00 %        839.10
+SET           8391.42        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         83.90
+            IGST                   001/2017 III388A     18.00 %     1676.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     244545.38                  Page Total         Rs.      74899.60
+               Rs.     244545.38     BE Gross Total         Rs.      74899.60
+BCD            Rs.      23791.30     NCD Duty               Rs.          0.00
+ANTID          Rs.          0.00     SAFEGUARD Duty         Rs.          0.00
+CVD            Rs.          0.00     Sch 2 Spl Excise Duty  Rs.          0.00
+CESS           Rs.          0.00     GSIA                   Rs.          0.00
+TTA            Rs.          0.00    
+Edu. Cess CVD  Rs.          0.00     Customs Edu. Cess      Rs.          0.00
+Health CVD     Rs.          0.00     Addl Duty - (Imports)  Rs.          0.00
+SHE. Cess CVD  Rs.          0.00     SH Cust Edu. Cess      Rs.          0.00
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.      74900
+Rs. Seventy Four Thousand Nine Hundred only                                        
+--------------------------------------------------------------------------------
+
+
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA          270716        48729            0
+
+			
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      13/13
+
+
