@@ -1,0 +1,248 @@
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:3068854/02/05/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE/MAH.                           411044         Payment Method  :  Transaction
+
+ IGM No  :      0/                      Port Of Loading :AMSTERDAM, SCHIPHOL  
+Cntry Of Orgn.: CZECH REPUBLIC         Cntry Of Consgn.:NETHERLANDS         
+MAWB No       : 15751790255            HAWB No         : 80017620            
+Date          : 29/04/2019             Date            : 01/05/2019
+No. Of Pkgs.  : 5 PKG                  Gross Wt.       :       62.000 KGS
+Marks:AS PER AWB                               
+& Nos                                          
+                                               
+Inv No & Dt. : 98451      23/04/2019          ASSA ABLOY ENTRANCE SYSTEMS EXPORT A
+Inv Val      :      4345.75 EUR TOI: FOB      P.O. BOX 669 SE-26125 LANDSKRONA, S
+Freight      :       508.30 EUR              WEDEN , , Sweden                   
+Insurance    : 3911.18      INR                                                 
+SVB Load(Ass):               Cust. House:     Sweden                   -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00            0.00         
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                    
+                                                                      
+                                                                               
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 80.0000 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     85369090  PCB C-PROCESS                                                   
+
+2             93.750000     85369090                   10.00 %       1692.30
+NOS           16923.22       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        169.20
+            IGST                   001/2017 III388A     18.00 %     3381.30
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      16923.22                  Page Total         Rs.       5242.80
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/ 3
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:3068854/02/05/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 98451      23/04/2019          ASSA ABLOY ENTRANCE SYSTEMS EXPORT A
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+2     85369090  PCB CONTROL BOX                                                 
+
+2             95.000000     85369090                   10.00 %       1714.90
+NOS           17148.87       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        171.50
+            IGST                   001/2017 III388A     18.00 %     3426.40
+            GST Cess               001/2017 56           0.00 %        0.00
+3     85371000  OP. CDM9 950 10/10 M CD/N                                       
+   
+3             729.250000    85371000 050/2017 490       7.50 %      14809.50
+NOS           197460.17      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       1481.00
+            IGST                   001/2017 III388B     18.00 %    38475.10
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     231532.26                  Page Total         Rs.      65321.20
+--------------------------------------------------------------------------------
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      2/ 3
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:3068854/02/05/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 98451      23/04/2019          ASSA ABLOY ENTRANCE SYSTEMS EXPORT A
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+4     39259090  SAFETY DEV                                                      
+
+3             91.250000     39259090                   10.00 %       2470.80
+NOS           24707.91       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        247.10
+            IGST                   001/2017 III110      18.00 %     4936.60
+            GST Cess               001/2017 56           0.00 %        0.00
+5     85369090  PCB POWER/CONTROL CDM9 K                                        
+  
+7             215.250000    85369090                   10.00 %      13599.50
+NOS           135995.02      NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %       1360.00
+            IGST                   001/2017 III388A     18.00 %    27171.80
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     392235.19                  Page Total         Rs.     115107.00
+               Rs.     392235.19     BE Gross Total         Rs.     115107.00
+BCD            Rs.      34287.00     NCD Duty               Rs.          0.00
+ANTID          Rs.          0.00     SAFEGUARD Duty         Rs.          0.00
+CVD            Rs.          0.00     Sch 2 Spl Excise Duty  Rs.          0.00
+CESS           Rs.          0.00     GSIA                   Rs.          0.00
+TTA            Rs.          0.00    
+Edu. Cess CVD  Rs.          0.00     Customs Edu. Cess      Rs.          0.00
+Health CVD     Rs.          0.00     Addl Duty - (Imports)  Rs.          0.00
+SHE. Cess CVD  Rs.          0.00     SH Cust Edu. Cess      Rs.          0.00
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.     115107
+Rs. One Lakh  Fifteen Thousand One Hundred and Seven only                          
+--------------------------------------------------------------------------------
+
+
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA          429951        77391            0
+
+			
+
+ This is an advance Customs Clearance document. The actual duty leviable 
+ may change with  variations  in  statutory rates of  duty/exchange rate.
+ Re-assessment can  also  be  made  by  the  Customs Department under 
+ section 17  of the Customs Act 1962 any time before clearance.
+--------------------------------------------------------------------[ NIC ]-----
+                                      3/ 3
+
+
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+
+
+
+                                Examination Order        Dated:02/05/2019
+
+___________________________________________________________________________
+
+
+BE No 3068854,BE dt 02/05/2019, CC N, Type H 
+
+Importer :NIHVA TECHNOLOGIES PVT. LTD.
+
+IEC [ 3112013816 ]
+                                                CHA [ AAFCS2365ACH001 ]
+
+Appraising Group : 5A
+
+
+
+Examination order    :
+
+
+Assessment and Examination has not been prescribed for this BE.
+
+
+
+IEC CCR Examination Instructions :
+
+
+
+Compulsary Compliance Requirements : 1 
+
+Mandatory Compliance Requirements Examination Instructions (CTH) - 39259090 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 85371000 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 85369090 
+"" #Mandatory Compliance Requirements Examination Instructions (FOR NOTIFICA
+TION) -050/2017 490 VFY GOODS ARE OF HEADING 8537. 
+
+
+
+
+ 
+
+Inspector Report          
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ [CHA]            [EO/Inspector]           [Shed AO/Supdt]
+
