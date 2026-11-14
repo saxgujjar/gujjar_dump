@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-25032016-081170";"";
+"REFERENCE";"UCP206";"";
+"TraceParts.PartTitle";"Palier Auto-aligneurs - UCP";"";
+"TraceParts.InstanceId";"10-25032016-0811705ZDZX4VH22XYCMXLWZHIF54P9";"";
+"DESIGN";"Palier auto-aligneur, UCP206, M14";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"MECALINE";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"fr";"";
+"TraceParts.ClassPath";"MECALINE:10-25032016-081170";"";
