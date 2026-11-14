@@ -1,0 +1,760 @@
+                                     Original (Customs copy) 
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+0      :8/1 COROMANT HOUSING SOCIETY,      
+SECTOR NO 27, PRADHIKARAN NIGDI,   
+PUNE/MAH.                           411044         Payment Method  :  Transaction
+
+ IGM No  :1717888/13/10/2019 13/10/2019 Port Of Loading :FRANKFURT/MAIN INT'L 
+Cntry Of Orgn.: GERMANY                Cntry Of Consgn.:                    
+MAWB No       : 02059162913            HAWB No         : 60045167            
+Date          : 14/10/2019             Date            : 14/10/2019
+No. Of Pkgs.  : 2 PKG                  Gross Wt.       :       15.000 KGS
+Marks:AS PER AWB                               
+& Nos                                          
+                                               
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+Inv Val      :      1544.16 EUR TOI: FOB      AM MONDSCHEIN 25 DE-59557 LIPPSTADT
+Freight      :     17500.00 INR              , , Germany                        
+Insurance    : 51.66        INR                                                 
+SVB Load(Ass):               Cust. House:     Germany                  -          
+SVB Load(Dty):               HSS Load Rate: 0.00% Amount:    0.00 
+Misc. Charges:   0.00            0.00         
+                               Discount Rate:  0.00 Discount Amount:     0.00
+EDD          :         0.00         XBE Duty FG Int.:         0.00 
+Third Party:                                                                    
+                                                                      
+                                                                               
+                                         -            BuyerSeller Reltd : No 
+                             Item Details
+                                        Exchange rate:   1.00 EUR = 79.5500 INR
+________________________________________________________________________________
+Slno  RITC      Description                            RSP           Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs)
+________________________________________________________________________________
+1     83024110  REDIRECTION ROPE (PARTS FOR HIGH SPEED ROLLER DOOR              
+ RAPID ROLL 3000)
+1             92.950000     83024110                   15.00 %       1267.60
+NOS           8450.69        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        126.80
+            IGST                   001/2017 III303A     18.00 %     1772.10
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.       8450.69                  Page Total         Rs.       3166.50
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:2
+--------------------------------------------------------------------[ NIC ]-----
+                                      1/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+2     73209090  TENSION SPRING (PARTS FOR HIGH SPEED ROLLER DOOR R              
+APID ROLL)                            
+1             85.370000     73209090 050/2017 377      10.00 %        776.20
+NOS           7761.54        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         77.60
+            IGST                   001/2017 III234      18.00 %     1550.80
+            GST Cess               001/2017 56           0.00 %        0.00
+3     40103999  BELT (PARTS FOR HIGH SPEED ROLLER DOOR RAPID ROLL)              
+                            
+1             64.610000     40103999                   10.00 %        587.40
+NOS           5874.11        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         58.70
+            IGST                   001/2017 III120      18.00 %     1173.70
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      22086.34                  Page Total         Rs.       7390.90
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:3
+--------------------------------------------------------------------[ NIC ]-----
+                                      2/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+4     39269069  ROPE (PARTS FOR HIGH SPEED ROLLER DOOR RAPID ROLL)              
+                            
+1             42.630000     39269069                   15.00 %        581.40
+NOS           3875.77        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         58.10
+            IGST                   001/2017 III111      18.00 %      812.80
+            GST Cess               001/2017 56           0.00 %        0.00
+5     83024110  EMERGENCY LEVER (PARTS FOR HIGH SPEED ROLLER DOOR               
+RAPID ROLL3000)
+1             117.760000    83024110                   15.00 %       1605.90
+NOS           10706.32       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        160.60
+            IGST                   001/2017 III303A     18.00 %     2245.10
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      36668.43                  Page Total         Rs.      12854.80
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:4
+--------------------------------------------------------------------[ NIC ]-----
+                                      3/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+6     39259010  CABLE CHAIN DRIVE SIDE (PARTS FOR HIGH SPEED ROLLE              
+R DOOR RAPID ROLL 3000)
+1             151.780000    39259010                   10.00 %       1379.90
+NOS           13799.30       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        138.00
+            IGST                   001/2017 III110      18.00 %     2757.10
+            GST Cess               001/2017 56           0.00 %        0.00
+7     39259010  CABLE CHAIN NON DRIVE SIDE (PARTS FOR HIGH SPEED R              
+OLLER DOORRAPID ROLL 3000)
+1             151.780000    39259010                   10.00 %       1379.90
+NOS           13799.30       NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %        138.00
+            IGST                   001/2017 III110      18.00 %     2757.10
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      64267.03                  Page Total         Rs.      21404.80
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:5
+--------------------------------------------------------------------[ NIC ]-----
+                                      4/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+8     85441990  CABLE (ACCESSORIES FOR HIGH SPEED ROLLER DOOR RAPI              
+D ROLL)                            
+1             38.560000     85441990 050/2017 491       7.50 %        262.90
+NOS           3505.74        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         26.30
+            IGST                   001/2017 III395      18.00 %      683.10
+            GST Cess               001/2017 56           0.00 %        0.00
+9     85441990  CABLE PHOTOCELL (ACCESSORIES FOR HIGH SPEED ROLLER              
+ DOOR RAPID ROLL)
+1             43.380000     85441990 050/2017 491       7.50 %        295.80
+NOS           3943.96        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         29.60
+            IGST                   001/2017 III395      18.00 %      768.50
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      71716.73                  Page Total         Rs.      23471.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:6
+--------------------------------------------------------------------[ NIC ]-----
+                                      5/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+10    85441990  CABLE PHOTOCELL (ACCESSORIES FOR HIGH SPEED ROLLER              
+ DOOR RAPID ROLL)
+1             48.900000     85441990 050/2017 491       7.50 %        333.40
+NOS           4445.82        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         33.30
+            IGST                   001/2017 III395      18.00 %      866.30
+            GST Cess               001/2017 56           0.00 %        0.00
+11    85441990  CABLE PHOTOCELL (ACCESSORIES FOR HIGH SPEED ROLLER              
+ DOOR RAPID ROLL)
+1             52.340000     85441990 050/2017 491       7.50 %        356.90
+NOS           4758.57        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         35.70
+            IGST                   001/2017 III395      18.00 %      927.20
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      80921.12                  Page Total         Rs.      26023.80
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:7
+--------------------------------------------------------------------[ NIC ]-----
+                                      6/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+12    85441990  CABLE WITH PLUG (ACCESSORIES FOR HIGH SPEED ROLLER              
+ DOOR RAPID ROLL)
+1             58.530000     85441990 050/2017 491       7.50 %        399.10
+NOS           5321.34        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         39.90
+            IGST                   001/2017 III395      18.00 %     1036.90
+            GST Cess               001/2017 56           0.00 %        0.00
+13    85441990  CABLE WITH PLUG (ACCESSORIES FOR HIGH SPEED ROLLER              
+ DOOR RAPID ROLL)
+1             61.280000     85441990 050/2017 491       7.50 %        417.90
+NOS           5571.36        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         41.80
+            IGST                   001/2017 III395      18.00 %     1085.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      91813.82                  Page Total         Rs.      29045.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:8
+--------------------------------------------------------------------[ NIC ]-----
+                                      7/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+14    39259010  CABLE DUCT COMPLETE (PARTS FOR HIGH SPEED ROLLER D              
+OOR RAPIDROLL 3000)
+1             22.250000     39259010                   10.00 %        202.30
+NOS           2022.89        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         20.20
+            IGST                   001/2017 III110      18.00 %      404.20
+            GST Cess               001/2017 56           0.00 %        0.00
+15    85365090  PROXIMITY SWITCH (PARTS FOR HIGH SPEED ROLLER DOOR              
+ RAPID ROLL 3000)
+1             65.410000     85365090                   10.00 %        594.70
+NOS           5946.85        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         59.50
+            IGST                   001/2017 III388A     18.00 %     1188.20
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.      99783.56                  Page Total         Rs.      31514.10
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:9
+--------------------------------------------------------------------[ NIC ]-----
+                                      8/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+16    85441990  CABLE PLUGABLE(ACCESSORIES FOR HIGH SPEED ROLLER D              
+OOR RAPIDROLL)
+1             34.940000     85441990 050/2017 491       7.50 %        238.20
+NOS           3176.62        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         23.80
+            IGST                   001/2017 III395      18.00 %      619.00
+            GST Cess               001/2017 56           0.00 %        0.00
+17    85364900  PHOTOCELL TRANSMITTER BLUE (PARTS FOR HIGH SPEED R              
+OLLER DOORRAPID ROLL 3000)
+1             96.180000     85364900                   10.00 %        874.40
+NOS           8744.35        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         87.40
+            IGST                   001/2017 III388A     18.00 %     1747.10
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     111704.53                  Page Total         Rs.      35104.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:10
+--------------------------------------------------------------------[ NIC ]-----
+                                      9/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+18    85364900  PHOTOCELL RECEIVER BALCK (PARTS FOR HIGH SPEED ROL              
+LER DOOR RAPID ROLL 3000)
+1             99.520000     85364900                   10.00 %        904.80
+NOS           9048.01        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         90.50
+            IGST                   001/2017 III388A     18.00 %     1807.80
+            GST Cess               001/2017 56           0.00 %        0.00
+19    39269069  ROPE PULLEY (PARTS FOR HIGH SPEED ROLLER DOOR RAPI              
+D ROLL)                            
+1             14.660000     39269069                   15.00 %        199.90
+NOS           1332.84        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         20.00
+            IGST                   001/2017 III111      18.00 %      279.50
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     122085.38                  Page Total         Rs.      38406.50
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:11
+--------------------------------------------------------------------[ NIC ]-----
+                                      10/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+20    49119990  LABEL EMERGENCY LEVER (ACCESSORIES FOR HIGH SPEED               
+ROLLER DOOR RAPID ROLL)
+1             5.980000      49119990                   10.00 %         54.40
+NOS           543.68         NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %          5.40
+            IGST                   001/2017 II132       12.00 %       72.40
+            GST Cess               001/2017 56           0.00 %        0.00
+21    85365090  PROXIMITY SWITCH (PARTS FOR HIGH SPEED ROLLER DOOR              
+ RAPID ROLL 3000)
+1             17.440000     85365090                   10.00 %        158.60
+NOS           1585.58        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         15.90
+            IGST                   001/2017 III388A     18.00 %      316.80
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     124214.64                  Page Total         Rs.      39030.00
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:12
+--------------------------------------------------------------------[ NIC ]-----
+                                      11/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+22    85365090  PROXIMITY SWITCH (PARTS FOR HIGH SPEED ROLLER DOOR              
+ RAPID ROLL 3000)
+1             17.440000     85365090                   10.00 %        158.60
+NOS           1585.58        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         15.90
+            IGST                   001/2017 III388A     18.00 %      316.80
+            GST Cess               001/2017 56           0.00 %        0.00
+23    40169390  DAMPER (PARTS FOR HIGH SPEED ROLLER DOOR RAPID ROL              
+L 3000)                            
+1             58.100000     40169390                   10.00 %        528.20
+NOS           5282.25        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         52.80
+            IGST                   001/2017 III123A     18.00 %     1055.40
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     131082.47                  Page Total         Rs.      41157.70
+--------------------------------------------------------------------------------
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+Signature                             Signature
+                                               ...continued on page:13
+--------------------------------------------------------------------[ NIC ]-----
+                                      12/13
+
+                  Indian Customs EDI System - Imports V1.5
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                BILL OF ENTRY FOR HOME CONSUMPTION     
+
+[Custom Stn: INBOM4]________CHA : AAFCS2365ACH001 [SAI KIRAN CLEARING CO PVT LTD ]
+BE No/Dt./cc/Typ:5291633/14/10/2019/N/H	  
+Importer Details :3112013816  PAN : AAECN0437HFT001       AD Code : 8692326   
+NIHVA TECHNOLOGIES PVT. LTD.                      
+Inv No & Dt. : 90812017   02/10/2019          ALBANY DOOR SYSTEMS GMBH           
+                             Item Details
+--------------------------------------------------------------------------------
+slno  RITC      Description                            RSP              Load  PROV
+Qty            Unit Price     CTH    C.Notn C.NSNO     Cus Dty Rt   BCD amt(Rs.)
+Unit           Ass Val        CETH   E.Notn E.NSNO     Exc Dty Rt   CVD amt(Rs.)
+--------------------------------------------------------------------------------
+24    85365090  MICROSWITCH (PARTS FOR HIGH SPEED ROLLER DOOR RAPI              
+D ROLL 3000)
+1             102.370000    85365090                   10.00 %        930.70
+NOS           9307.12        NOEXCISE                    0.00 %          0.00
+         Educational Cess on CVDs  :                     0.00 %          0.00
+Sec & Higher Edu. Cess on CVD      :                     0.00 %          0.00
+         Customs Educational Cess  :                     0.00 %          0.00
+Customs Sec & Higher Edu. Cess     :                     0.00 %          0.00
+Social Welfare Surcharge:                               10.00 %         93.10
+            IGST                   001/2017 III388A     18.00 %     1859.60
+            GST Cess               001/2017 56           0.00 %        0.00
+--------------------------------------------------------------------------------
+      Rs.     140389.59                  Page Total         Rs.      44041.10
+               Rs.     140389.59     BE Gross Total         Rs.      44041.10
+BCD            Rs.      14489.10     NCD Duty               Rs.          0.00
+ANTID          Rs.          0.00     SAFEGUARD Duty         Rs.          0.00
+CVD            Rs.          0.00     Sch 2 Spl Excise Duty  Rs.          0.00
+CESS           Rs.          0.00     GSIA                   Rs.          0.00
+TTA            Rs.          0.00    
+Edu. Cess CVD  Rs.          0.00     Customs Edu. Cess      Rs.          0.00
+Health CVD     Rs.          0.00     Addl Duty - (Imports)  Rs.          0.00
+SHE. Cess CVD  Rs.          0.00     SH Cust Edu. Cess      Rs.          0.00
+--------------------------------------------------------------------------------
+Duty Payable:                                               Rs.      44041
+Rs. Forty Four Thousand and Forty One only                                         
+--------------------------------------------------------------------------------
+
+
+              GSTIN Details                      
+              =============                      
+Document No          Typ State Cd/Name    IGST Ass.val   IGST Amt   GST Cess Amt
+-----------          --- ---------------  ------------   ---------  ----------- 
+27AAECN0437H1ZM      G 27 MAHARASHTRA          156328        28103            0
+
+		
+
+Declaration 
+1. I/We Certify that the above entries are correct.
+2. I/We further declare that wherever the RSP is applicable same has been
+   truthfully declared
+CHA                                   Importer     
+SAI KIRAN CLEARING CO PVT LTD        NIHVA TECHNOLOGIES PVT. LTD.                    
+
+Signature                             Signature
+--------------------------------------------------------------------[ NIC ]-----
+                                      13/13
+
+
+                  Indian Customs EDI System - Imports V1.5R001
+               AIR CARGO COMPLEX, SAHAR, ANDHERI(E) MUMBAI 400099
+                       Examination Order        Dated:16/10/2019
+___________________________________________________________________________
+
+BE No 5291633,BE dt 14/10/2019, CC N, Type H 
+
+Importer :NIHVA TECHNOLOGIES PVT. LTD.
+
+IEC [ 3112013816 ]
+                                                CHA [ AAFCS2365ACH001 ]
+
+Appraising Group : 5A
+
+Officer              :Ramanathan Chintamani
+
+Examination order    :
+Examination has not been prescribed for this BE.So Examination Order is not 
+Required
+
+FOLLOW RMS.
+ By 10031048 on 15/10/2019  at 01:21P.M.
+
+IEC CCR Examination Instructions :
+
+Compulsary Compliance Requirements : 1 
+
+Mandatory Compliance Requirements Examination Instructions (CTH) - 39259010 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 85441990 
+"* ARTICLES OF COPPER FROM SRILANKA UNDER ISFTA ALLOWED THRU NHAVA SHEVA, CH
+ENNAI, TUTICORIN, COCHIN, ICD TKD, ICD MULUND, ICD LUDHIANA & ICD PITAMPUR*:
+-*ITC HS COND 2 TO CH-85. "
+Mandatory Compliance Requirements Examination Instructions (CTH) - 85365090 
+"*BIS & NOTE 2 OF POLICY *   "
+Mandatory Compliance Requirements Examination Instructions (CTH) - 85364900 
+"*BIS & NOTE 2 OF POLICY *   "
+Mandatory Compliance Requirements Examination Instructions (CTH) - 83024110 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 73209090 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 49119990 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 40169390 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 40103999 
+""
+Mandatory Compliance Requirements Examination Instructions (CTH) - 39269069 
+"""* *COCKROACH TRAPS & MOSQUITO REPELLENT MERIT CLASSIFICATION UNDER 380891
+99 CABLE TIES ORIGINATING IN OR EXPORTED FROM PR CHINA OR TAIWAN ATTRACT ADD
+. *  *CBEC CUS CIR 28/13 DT.1.8.13 * NTF 28/13-ADD DT 12.11.13 AMENDED 47/14
+-ADD DT. 9.12.14 (VALID UPTO 8.12.19), *NTF 56/12 -CUS (ADD) DT 14-12-12 AME
+NDED BY 28/13 & NO. 47/14-CUS.(ADD) DT. 9.12.14 (VALID UPTO 8.12.19)"". " #M
+andatory Compliance Requirements Examination Instructions (FOR NOTIFICATION)
+ -050/2017 377 VFY GOODS  OTHER THAN THOSE AT SERIAL NO. 377A (OTHER THAN SC
+REW (73181500) AND SIM SOCKET/OTHER MECHANICAL ITEMS (METAL) (73269099) FOR 
+CELLULAR MOBILE PHONE).  REFER TO CBEC  NOTFN. NO. 49/2018 DATED 20.06.2018.
+
+Mandatory Compliance Requirements Examination Instructions (FOR NOTIFICATION
+) -050/2017 491 ""VFY GOODS OTHER THAN USB CABLE FOR CELLULAR MOBILE PHONE  
+OF CTH 8544 (EXCEPT 85447010, 85447090). """"""
+
+AC Remarks                Name:Priya Ratnakar Jadhav
+
+Inspector Report          
+
+
+
+
+ [CHA]            [EO/Inspector]           [Shed AO/Supdt]
